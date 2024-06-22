@@ -1,6 +1,9 @@
 
-<h1 align="center">Hi, I'am Julian Chile</h1>
-![waving-hand](https://github.com/jchgabriel-dev/jchgabriel-dev/assets/173556354/6f62d52d-a72d-4c8e-8227-2a9f7c39cca8)
+<h1 align="center">Hi, I'am Julian Chile
+
+<img src="https://github.com/jchgabriel-dev/jchgabriel-dev/assets/173556354/6f62d52d-a72d-4c8e-8227-2a9f7c39cca8" alt="waving-hand" width="50" height="50" />
+</h1>
+
 
 ###
 
