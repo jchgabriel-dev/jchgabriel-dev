@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'am Julian Chile</h1>
-![waving_hand](https://github.com/jchgabriel-dev/jchgabriel-dev/assets/173556354/e334b467-8a4e-4958-baf4-6f0b476a9a87)
+![waving-hand](https://github.com/jchgabriel-dev/jchgabriel-dev/assets/173556354/6f62d52d-a72d-4c8e-8227-2a9f7c39cca8)
 
 ###
 
