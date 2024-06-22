@@ -6,8 +6,10 @@
 
 
 ###
+<h2 align="left">
+<img src="https://github.com/jchgabriel-dev/jchgabriel-dev/assets/173556354/7cbada98-1898-45e3-b0ca-3177afb9ed48"  alt="about-me" width="30" height="30" />
+About me</h2>
 
-<h2 align="left">About me</h2>
 
 ###
 
@@ -19,7 +21,10 @@
 
 ###
 
-<h2 align="left">My skills</h2>
+<h2 align="left">
+<img src="https://github.com/jchgabriel-dev/jchgabriel-dev/assets/173556354/3a4ce756-117f-4096-b91b-0234368107c9"  alt="skills" width="30" height="30" />
+My skills</h2>
+
 
 ###
 
