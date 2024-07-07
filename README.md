@@ -46,7 +46,7 @@ My skills</h2>
 
 [![  ](https://img.shields.io/badge/-HTML5-E34F26?labelColor=white&style=for-the-badge&logo=HTML5&logoWidth=20&link=https://www.w3.org/html/)](https://www.w3.org/html/)
 [![  ](https://img.shields.io/badge/-CSS-252aae?labelColor=white&style=for-the-badge&logo=css3&logoColor=252aae&logoWidth=20&link=https://www.w3.org/html/)](https://www.w3schools.com/css/)
-
+![ ](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?labelColor=black&style=for-the-badge&logo=javascript)
 </div>
 
 - <h4> Mobile Developer </h4>
