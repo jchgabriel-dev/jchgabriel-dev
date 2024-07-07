@@ -53,6 +53,7 @@ My skills</h2>
 <div align="center">
   
 [![  ](https://img.shields.io/badge/-ANDROID-34A853?labelColor=white&style=for-the-badge&logo=android&logoWidth=20&link=https://www.w3.org/html/)](https://www.android.com/)
+![ ](https://img.shields.io/badge/-jetpack%20Compose-3D79DE?labelColor=black&style=for-the-badge&logo=jetpackCompose)
 </div>
 
 - <h4> Software & Tools </h4>
